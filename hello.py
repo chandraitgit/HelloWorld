@@ -1,1 +1,1 @@
-HELLO WORLD APP
+print "hello world"
